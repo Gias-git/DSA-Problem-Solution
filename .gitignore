@@ -1,7 +1,7 @@
 .cph
 
 # Ignore compiled output files (common extensions)
-*.out
+*.output
 *.exe
 *.o
 
