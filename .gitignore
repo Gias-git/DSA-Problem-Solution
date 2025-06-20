@@ -1,0 +1,9 @@
+.cph
+
+# Ignore compiled output files (common extensions)
+*.out
+*.exe
+*.o
+
+# Ignore VS Code settings folder
+.vscode/
